@@ -10,7 +10,6 @@
     width: 1600px;
     padding: 0 15px ;
     margin: 0 15px ;
-    outline: 2px solid red;
 }
 body{ 
     font-family: "Roboto", serif; 
@@ -70,7 +69,6 @@ letter-spacing: 0.28px;
 } 
 .main .container{
     padding-bottom: 280px;
-    outline: 2px dotted blue;
 }
  
 .section-hero{ 
@@ -138,7 +136,6 @@ letter-spacing: 0.48px;
 
 .footer .container{
     padding:60px 15px;
-    outline: 2px double blueviolet;
 }
  
 .footer-bg{ 
